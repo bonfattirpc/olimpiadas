@@ -1,4 +1,4 @@
-# 🏅 Atletas do Brasil
+# 🏅 Atletas do Brasil - Imersão DEV - Google Gemini
 
 Bem-vindo ao **Atletas do Brasil**! 🇧🇷 Este é um projeto super legal que destaca alguns dos maiores atletas brasileiros de todos os tempos. Quer saber mais sobre nossos campeões? Basta digitar o nome ou esporte no campo de pesquisa e descobrir tudo sobre eles!
 
